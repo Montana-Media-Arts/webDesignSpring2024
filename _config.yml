@@ -4,15 +4,14 @@ email: admin@media-ed-online.com
 description: >
   Course content for an introductory look at building and designing for the web.
 lang: en-US
-
-apex: https://montana-media-arts.github.io/341-web-design-Spring2021/
+apex: https://corymckague.github.io/WebDesignFall2023/
 author:
-  name: Michael Cassens
-  email: michael.cassens@umontana.edu
+  name: Cory McKague
+  email: cory.mckague@umt.edu
 
-baseurl: "https://montana-media-arts.github.io/341-web-design-Spring2021"
-url: https://montana-media-arts.github.io/341-web-design-Spring2021/
-git_address: https://github.com/Montana-Media-Arts/341-web-design-Spring2021
+baseurl: "https://mcorymckague.github.io/WebDesignFall2023"
+url: https://corymckague.github.io/WebDesignFall2023/
+git_address: https://github.com/coryMcKague/WebDesignFall2023
 git_edit_address: https://github.com/Montana-Media-Arts/341-web-design-Spring2021/blob/gh-pages
 
 # Theme options from https://bootswatch.com/
