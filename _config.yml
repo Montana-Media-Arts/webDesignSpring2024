@@ -9,10 +9,10 @@ author:
   name: Cory McKague
   email: cory.mckague@umt.edu
 
-baseurl: "https://mcorymckague.github.io/WebDesignFall2023"
+baseurl: "https://corymckague.github.io/WebDesignFall2023"
 url: https://corymckague.github.io/WebDesignFall2023/
 git_address: https://github.com/coryMcKague/WebDesignFall2023
-git_edit_address: https://github.com/Montana-Media-Arts/341-web-design-Spring2021/blob/gh-pages
+git_edit_address: https://github.com/coryMcKague/WebDesignFall2023/blob/gh-pages
 
 # Theme options from https://bootswatch.com/
 # Comment out this to use default Bootstrap
