@@ -2,7 +2,7 @@
 
 
 # Intro-Web-Dev Site Repo
-Instructor: Michael Cassens ([michael.cassens@umontana.edu](mailto:michael.cassens@umontana.edu))
+Instructor: Cory McKague ([cory.mckague@umt.edu](mailto:cory.mckague@umt.edu))
 
 
 ### License
