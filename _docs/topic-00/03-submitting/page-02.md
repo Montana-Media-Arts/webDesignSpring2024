@@ -20,9 +20,9 @@ To begin, you need to register with <a href="https://github.com/" target="_blank
 <span class="label label-info">Note</span> Please choose a username that you are comfortable with being part of your publicly-visible URL. It's up to you, but I recommend making it something that you are okay sharing with others.  This is a common question from perspective employers.  They want a link to your GitHub repository and if it's something silly, you might not want to share it.  Here are some examples.
 
 <ul class="pros-and-cons">
-  <li class="icon-pro">michaelcassens</li>
-  <li class="icon-pro">mcassens</li>
-  <li class="icon-pro">cassens-mt</li>
+  <li class="icon-pro">corymckague</li>
+  <li class="icon-pro">cmckague/li>
+  <li class="icon-pro">mckague-mt</li>
   <li class="icon-con">crazyrider456</li>
   <li class="icon-con">dzjewqs</li>
 </ul>
