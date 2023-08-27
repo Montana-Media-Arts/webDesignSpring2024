@@ -4,15 +4,15 @@ email: admin@media-ed-online.com
 description: >
   Course content for an introductory look at building and designing for the web.
 lang: en-US
-apex: https://corymckague.github.io/WebDesignFall2023/
+apex: https://montana-media-arts.github.io/webDesignFall2023/
 author:
   name: Cory McKague
   email: cory.mckague@umt.edu
 
-baseurl: "https://corymckague.github.io/WebDesignFall2023"
-url: https://corymckague.github.io/WebDesignFall2023/
-git_address: https://github.com/coryMcKague/WebDesignFall2023
-git_edit_address: https://github.com/coryMcKague/WebDesignFall2023/blob/gh-pages
+baseurl: "https://montana-media-arts.github.io/webDesignFall2023"
+url: https://montana-media-arts.github.io/webDesignFall2023/
+git_address: https://github.com/Montana-Media-Arts/webDesignFall2023
+git_edit_address: https://github.com/Montana-Media-Arts/webDesignFall2023/blob/gh-pages
 
 # Theme options from https://bootswatch.com/
 # Comment out this to use default Bootstrap
