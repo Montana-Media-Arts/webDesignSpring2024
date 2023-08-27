@@ -34,7 +34,7 @@ categories: uncategorized
   <div class="col-lg-4">
     <div class="bs-component">
       <div class="list-group">
-        <a href="https://umontanamediaarts.com/MART120/wp-admin/admin-ajax.php?action=h5p_embed&id=1" target="_blank" class="list-group-item">
+        <a href="https://moodle.umt.edu/mod/quiz/view.php?id=2649575" target="_blank" class="list-group-item">
           <i class="icon-hw fas fa-question" aria-hidden="true"></i>
           <h4 class="list-group-item-heading">Take the Syllabus Quiz</h4>
           <div class="divider-hw"></div>
