@@ -15,7 +15,7 @@ tags:
 ## About
 Coding. Learning. Engagement. Great websites.
 
-Hopefully, this won't be completely brand new.  In Creative Coding 1, we briefly covered HTML, CSS and JavaScript.  This was done with intention so that you would have some knowledge before taking this class.  Don't worry though, we are going through everything again just in case you forgot anything!
+Hopefully, this won't be completely brand new.  In Creative Coding 1, we briefly covered HTML, CSS and JavaScript.  This was done with intention so that you would have some knowledge before taking this class.  Don't worry though, if you are brand new or forgot, we are going through everything again just in case you forgot anything! 
 
 This course will ask you to learn and adapt to new technologies, while also thinking about design and content creation. By its end, you should feel comfortable making websites from the ground-up, and utilizing your peers as learning tools in this creative community.
 
