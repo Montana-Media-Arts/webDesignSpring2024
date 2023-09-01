@@ -21,7 +21,7 @@ To begin, you need to register with <a href="https://github.com/" target="_blank
 
 <ul class="pros-and-cons">
   <li class="icon-pro">corymckague</li>
-  <li class="icon-pro">cmckague/li>
+  <li class="icon-pro">cmckague</li>
   <li class="icon-pro">mckague-mt</li>
   <li class="icon-con">crazyrider456</li>
   <li class="icon-con">dzjewqs</li>
