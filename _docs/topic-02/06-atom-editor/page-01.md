@@ -1,7 +1,7 @@
 ---
 title: Visual Studio Code
 module: topic-02
-permalink: /topic-02/VisualStudioCode-install/
+permalink: /topic-02/VisualStudio-install/
 categories: development
 tags: atom, editor, guide, install, text
 ---
