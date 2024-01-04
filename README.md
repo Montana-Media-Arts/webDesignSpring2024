@@ -5,5 +5,6 @@
 Instructor: Cory McKague ([cory.mckague@umt.edu](mailto:cory.mckague@umt.edu))
 
 
+
 ### License
 Released under [the MIT license](LICENSE).
