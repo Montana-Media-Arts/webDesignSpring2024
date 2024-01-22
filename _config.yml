@@ -14,6 +14,9 @@ url: https://montana-media-arts.github.io/webDesignSpring2024/
 git_address: https://github.com/Montana-Media-Arts/webDesignSpring2024
 git_edit_address: https://github.com/Montana-Media-Arts/webDesignSpring2024/blob/gh-pages
 
+data:
+  moodle: https://moodle.umt.edu/course/view.php?id=69565
+
 # Theme options from https://bootswatch.com/
 # Comment out this to use default Bootstrap
 bootwatch: custom
